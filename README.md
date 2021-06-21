@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://user-images.githubusercontent.com/53568510/122800739-b006d880-d299-11eb-8873-63acb56ea9bd.png)
+![image](https://www.python.org/static/img/python-logo.png)
 
 
 
