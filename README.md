@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Johne André de Jesus 👋
 
 <!--
 **johneandredejesus/johneandredejesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Programing Liguage
 
 ![image](https://user-images.githubusercontent.com/53568510/122800739-b006d880-d299-11eb-8873-63acb56ea9bd.png)
 
-Social media
-![image](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BQRez%2FEi5T1KMyEodRJeeFA%3D%3D)
+
+
