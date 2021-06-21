@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![image](https://camo.githubusercontent.com/edbf0a154fb266da96cd1b5379eec350cff7ef072ba42ee003c713c321cb0ba8/68747470733a2f2f7777772e707974686f6e2e6f72672f7374617469632f696d672f707974686f6e2d6c6f676f2e706e67)
 ![django](https://user-images.githubusercontent.com/53568510/122808007-a7ff6680-d2a2-11eb-9188-338fad480433.png)
+![netconf](https://user-images.githubusercontent.com/53568510/122809235-34f6ef80-d2a4-11eb-9f50-1994f725c43c.jpeg)
 ![aws](https://user-images.githubusercontent.com/53568510/122808188-ebf26b80-d2a2-11eb-8951-9b4608711d80.png)
 
 
