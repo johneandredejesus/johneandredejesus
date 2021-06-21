@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![image](https://camo.githubusercontent.com/edbf0a154fb266da96cd1b5379eec350cff7ef072ba42ee003c713c321cb0ba8/68747470733a2f2f7777772e707974686f6e2e6f72672f7374617469632f696d672f707974686f6e2d6c6f676f2e706e67)
+![toppng com-django-python-logo-apress-the-definitive-guide-to-django-web-development-512x229](https://user-images.githubusercontent.com/53568510/122806927-56a2a780-d2a1-11eb-8a58-18aa518c4331.png)
+![toppng com-aws-logo-amazon-web-services-ico-780x294](https://user-images.githubusercontent.com/53568510/122806646-f875c480-d2a0-11eb-8f76-666e5d307c8c.png)
 
 
 
